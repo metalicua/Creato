@@ -527,6 +527,10 @@ textarea {
         padding: 100px 0;
     }
 
+    .gallery-box {
+        max-width: 1199px;
+    }
+
     .services-row {
         padding: 130px 0 130px;
     }
@@ -597,6 +601,10 @@ textarea {
 
     .about__btn-box {
         padding: 0 0 0 15px;
+    }
+
+    .gallery-box {
+        max-width: 1023px;
     }
 
     .services-row {
@@ -750,6 +758,10 @@ textarea {
     .about__image img {
         width: 100%;
     } 
+
+    .gallery-box {
+        max-width: 680px;
+    }
 
     .gallery__list {
         padding: 0;
